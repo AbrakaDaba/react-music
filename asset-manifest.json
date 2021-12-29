@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AbrakaDaba/react-music/music/static/css/main.72e379fe.css",
-    "main.js": "/AbrakaDaba/react-music/music/static/js/main.e7848d55.js",
-    "index.html": "/AbrakaDaba/react-music/music/index.html",
-    "main.72e379fe.css.map": "/AbrakaDaba/react-music/music/static/css/main.72e379fe.css.map",
-    "main.e7848d55.js.map": "/AbrakaDaba/react-music/music/static/js/main.e7848d55.js.map"
+    "main.css": "/AbrakaDaba/react-music/static/css/main.72e379fe.css",
+    "main.js": "/AbrakaDaba/react-music/static/js/main.e7848d55.js",
+    "index.html": "/AbrakaDaba/react-music/index.html",
+    "main.72e379fe.css.map": "/AbrakaDaba/react-music/static/css/main.72e379fe.css.map",
+    "main.e7848d55.js.map": "/AbrakaDaba/react-music/static/js/main.e7848d55.js.map"
   },
   "entrypoints": [
     "static/css/main.72e379fe.css",
